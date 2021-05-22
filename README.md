@@ -1,2 +1,0 @@
-# Inttec
-Inttec Elevadores
